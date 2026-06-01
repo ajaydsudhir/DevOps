@@ -1,10 +1,10 @@
 # 100 Days of DevOps [KodeKloud]
 
-My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodekloud.com/100-days-of-devops), documenting my solutions and notes for each of the 100 hands-on tasks covering the full DevOps lifecycle.
+My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodekloud.com/100-days-of-devops) with 100 hands-on tasks covering the full DevOps lifecycle.
 
 | DAY | TASK | STATUS |
 | :-: | :-: | :-: |
-| 1 | Linux User Setup with Non-Interactive Shell | ☐ |
+| 1 | [Linux User Setup with Non-Interactive Shell](./days/1.md) | ✅ |
 | 2 | Temporary User Setup with Expiry | ☐ |
 | 3 | Secure Root SSH Access | ☐ |
 | 4 | Script Execution Permissions | ☐ |
