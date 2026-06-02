@@ -5,7 +5,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | DAY | TASK | STATUS |
 | :-: | :-: | :-: |
 | 1 | [Linux User Setup with Non-Interactive Shell](./days/1.md) | ✅ |
-| 2 | Temporary User Setup with Expiry | ☐ |
+| 2 | [Temporary User Setup with Expiry](./days/2.md) | ✅ |
 | 3 | Secure Root SSH Access | ☐ |
 | 4 | Script Execution Permissions | ☐ |
 | 5 | SElinux Installation and Configuration | ☐ |
