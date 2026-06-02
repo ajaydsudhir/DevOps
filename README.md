@@ -6,7 +6,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | :-: | :-: | :-: |
 | 1 | [Linux User Setup with Non-Interactive Shell](./days/1.md) | ✅ |
 | 2 | [Temporary User Setup with Expiry](./days/2.md) | ✅ |
-| 3 | Secure Root SSH Access | ☐ |
+| 3 | [Secure Root SSH Access](./days/3.md) | ✅ |
 | 4 | Script Execution Permissions | ☐ |
 | 5 | SElinux Installation and Configuration | ☐ |
 | 6 | Create a Cron Job | ☐ |
