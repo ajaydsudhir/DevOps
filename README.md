@@ -8,7 +8,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 2 | [Temporary User Setup with Expiry](./days/2.md) | ✅ |
 | 3 | [Secure Root SSH Access](./days/3.md) | ✅ |
 | 4 | [Script Execution Permissions](./days/4.md) | ✅ |
-| 5 | SElinux Installation and Configuration | ☐ |
+| 5 | [SElinux Installation and Configuration](./days/5.md) | ✅ |
 | 6 | Create a Cron Job | ☐ |
 | 7 | Linux SSH Authentication | ☐ |
 | 8 | Install Ansible | ☐ |
