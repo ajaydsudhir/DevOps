@@ -10,7 +10,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 4 | [Script Execution Permissions](./days/4.md) | ✅ |
 | 5 | [SElinux Installation and Configuration](./days/5.md) | ✅ |
 | 6 | [Create a Cron Job](./days/6.md) | ✅ |
-| 7 | Linux SSH Authentication | ☐ |
+| 7 | [Linux SSH Authentication](./days/7.md) | ✅ |
 | 8 | Install Ansible | ☐ |
 | 9 | MariaDB Troubleshooting | ☐ |
 | 10 | Linux Bash Scripts | ☐ |
