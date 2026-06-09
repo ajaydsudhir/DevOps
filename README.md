@@ -12,7 +12,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 6 | [Create a Cron Job](./days/6.md) | ✅ |
 | 7 | [Linux SSH Authentication](./days/7.md) | ✅ |
 | 8 | [Install Ansible](./days/8.md) | ✅ |
-| 9 | MariaDB Troubleshooting | ☐ |
+| 9 | [MariaDB Troubleshooting](./days/9.md) | ✅ |
 | 10 | Linux Bash Scripts | ☐ |
 | 11 | Install and Configure Tomcat Server | ☐ |
 | 12 | Linux Network Services | ☐ |
