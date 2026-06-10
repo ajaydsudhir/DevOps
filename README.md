@@ -13,7 +13,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 7 | [Linux SSH Authentication](./days/7.md) | ✅ |
 | 8 | [Install Ansible](./days/8.md) | ✅ |
 | 9 | [MariaDB Troubleshooting](./days/9.md) | ✅ |
-| 10 | Linux Bash Scripts | ☐ |
+| 10 | [Linux Bash Scripts](./days/10.md) | ✅ |
 | 11 | Install and Configure Tomcat Server | ☐ |
 | 12 | Linux Network Services | ☐ |
 | 13 | IPtables Installation And Configuration | ☐ |
