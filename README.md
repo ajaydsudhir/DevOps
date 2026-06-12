@@ -15,7 +15,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 9 | [MariaDB Troubleshooting](./days/9.md) | ✅ |
 | 10 | [Linux Bash Scripts](./days/10.md) | ✅ |
 | 11 | [Install and Configure Tomcat Server](./days/11.md) | ✅ |
-| 12 | Linux Network Services | ☐ |
+| 12 | [Linux Network Services](./days/12.md) | ✅ |
 | 13 | IPtables Installation And Configuration | ☐ |
 | 14 | Linux Process Troubleshooting | ☐ |
 | 15 | Setup SSL for Nginx | ☐ |
