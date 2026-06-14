@@ -17,7 +17,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 11 | [Install and Configure Tomcat Server](./days/11.md) | ✅ |
 | 12 | [Linux Network Services](./days/12.md) | ✅ |
 | 13 | [IPtables Installation And Configuration](./days/13.md) | ✅ |
-| 14 | Linux Process Troubleshooting | ☐ |
+| 14 | [Linux Process Troubleshooting](./days/14.md) | ✅ |
 | 15 | Setup SSL for Nginx | ☐ |
 | 16 | Install and Configure Nginx as an LBR | ☐ |
 | 17 | Install and Configure PostgreSQL | ☐ |
