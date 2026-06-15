@@ -18,7 +18,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 12 | [Linux Network Services](./days/12.md) | ✅ |
 | 13 | [IPtables Installation And Configuration](./days/13.md) | ✅ |
 | 14 | [Linux Process Troubleshooting](./days/14.md) | ✅ |
-| 15 | Setup SSL for Nginx | ☐ |
+| 15 | [Setup SSL for Nginx](./days/15.md) | ✅ |
 | 16 | Install and Configure Nginx as an LBR | ☐ |
 | 17 | Install and Configure PostgreSQL | ☐ |
 | 18 | Install and Configure DB Server | ☐ |
