@@ -20,7 +20,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 14 | [Linux Process Troubleshooting](./days/14.md) | ✅ |
 | 15 | [Setup SSL for Nginx](./days/15.md) | ✅ |
 | 16 | [Install and Configure Nginx as an LBR](./days/16.md) | ✅ |
-| 17 | Install and Configure PostgreSQL | ☐ |
+| 17 | [Install and Configure PostgreSQL](./days/17.md) | ✅ |
 | 18 | Install and Configure DB Server | ☐ |
 | 19 | Install and Configure Web Application | ☐ |
 | 20 | Configure Nginx + PHP-FPM Using Unix Sock | ☐ |
