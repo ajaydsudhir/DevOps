@@ -26,7 +26,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 20 | [Configure Nginx + PHP-FPM Using Unix Sock](./days/20.md) | ✅ |
 | 21 | [Set Up Git Repository on Storage Server](./days/21.md) | ✅ |
 | 22 | [Clone Git Repository on Storage Server](./days/22.md) | ✅ |
-| 23 | Fork a Git Repository | ☐ |
+| 23 | [Fork a Git Repository](./days/23.md) | ✅ |
 | 24 | Git Create Branches | ☐ |
 | 25 | Git Merge Branches | ☐ |
 | 26 | Git Manage Remotes | ☐ |
