@@ -27,7 +27,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 21 | [Set Up Git Repository on Storage Server](./days/21.md) | ✅ |
 | 22 | [Clone Git Repository on Storage Server](./days/22.md) | ✅ |
 | 23 | [Fork a Git Repository](./days/23.md) | ✅ |
-| 24 | Git Create Branches | ☐ |
+| 24 | [Git Create Branches](./days/24.md) | ✅ |
 | 25 | Git Merge Branches | ☐ |
 | 26 | Git Manage Remotes | ☐ |
 | 27 | Git Revert Some Changes | ☐ |
