@@ -29,7 +29,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 23 | [Fork a Git Repository](./days/23.md) | ✅ |
 | 24 | [Git Create Branches](./days/24.md) | ✅ |
 | 25 | [Git Merge Branches](./days/25.md) | ✅ |
-| 26 | Git Manage Remotes | ☐ |
+| 26 | [Git Manage Remotes](./days/26.md) | ✅ |
 | 27 | Git Revert Some Changes | ☐ |
 | 28 | Git Cherry Pick | ☐ |
 | 29 | Manage Git Pull Requests | ☐ |
