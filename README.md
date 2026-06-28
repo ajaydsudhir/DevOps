@@ -31,7 +31,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 25 | [Git Merge Branches](./days/25.md) | ✅ |
 | 26 | [Git Manage Remotes](./days/26.md) | ✅ |
 | 27 | [Git Revert Some Changes](./days/27.md) | ✅ |
-| 28 | Git Cherry Pick | ☐ |
+| 28 | [Git Cherry Pick](./days/28.md) | ✅ |
 | 29 | Manage Git Pull Requests | ☐ |
 | 30 | Git hard reset | ☐ |
 | 31 | Git Stash | ☐ |
