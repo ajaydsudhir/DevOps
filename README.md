@@ -35,7 +35,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 29 | [Manage Git Pull Requests](./days/29.md) | ✅ |
 | 30 | [Git hard reset](./days/30.md) | ✅ |
 | 31 | [Git Stash](./days/31.md) | ✅ |
-| 32 | Git Rebase | ☐ |
+| 32 | [Git Rebase](./days/32.md) | ✅ |
 | 33 | Resolve Git Merge Conflicts | ☐ |
 | 34 | Git Hook | ☐ |
 | 35 | Install Docker Packages and Start Docker Service | ☐ |
