@@ -36,7 +36,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 30 | [Git hard reset](./days/30.md) | ✅ |
 | 31 | [Git Stash](./days/31.md) | ✅ |
 | 32 | [Git Rebase](./days/32.md) | ✅ |
-| 33 | Resolve Git Merge Conflicts | ☐ |
+| 33 | [Resolve Git Merge Conflicts](./days/33.md) | ✅ |
 | 34 | Git Hook | ☐ |
 | 35 | Install Docker Packages and Start Docker Service | ☐ |
 | 36 | Deploy Nginx Container on Application Server | ☐ |
