@@ -38,7 +38,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 32 | [Git Rebase](./days/32.md) | ✅ |
 | 33 | [Resolve Git Merge Conflicts](./days/33.md) | ✅ |
 | 34 | [Git Hook](./days/34.md) | ✅ |
-| 35 | Install Docker Packages and Start Docker Service | ☐ |
+| 35 | [Install Docker Packages and Start Docker Service](./days/35.md) | ✅ |
 | 36 | Deploy Nginx Container on Application Server | ☐ |
 | 37 | Copy File to Docker Container | ☐ |
 | 38 | Pull Docker Image | ☐ |
