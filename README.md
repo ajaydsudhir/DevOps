@@ -40,7 +40,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 34 | [Git Hook](./days/34.md) | ✅ |
 | 35 | [Install Docker Packages and Start Docker Service](./days/35.md) | ✅ |
 | 36 | [Deploy Nginx Container on Application Server](./days/36.md) | ✅ |
-| 37 | Copy File to Docker Container | ☐ |
+| 37 | [Copy File to Docker Container](./days/37.md) | ✅ |
 | 38 | Pull Docker Image | ☐ |
 | 39 | Create a Docker Image From Container | ☐ |
 | 40 | Docker EXEC Operations | ☐ |
