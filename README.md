@@ -42,7 +42,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 36 | [Deploy Nginx Container on Application Server](./days/36.md) | ✅ |
 | 37 | [Copy File to Docker Container](./days/37.md) | ✅ |
 | 38 | [Pull Docker Image](./days/38.md) | ✅ |
-| 39 | Create a Docker Image From Container | ☐ |
+| 39 | [Create a Docker Image From Container](./days/39.md) | ✅ |
 | 40 | Docker EXEC Operations | ☐ |
 | 41 | Write a Docker File | ☐ |
 | 42 | Create a Docker Network | ☐ |
