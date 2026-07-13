@@ -45,7 +45,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 39 | [Create a Docker Image From Container](./days/39.md) | ✅ |
 | 40 | [Docker EXEC Operations](./days/40.md) | ✅ |
 | 41 | [Write a Docker File](./days/41.md) | ✅ |
-| 42 | Create a Docker Network | ☐ |
+| 42 | [Create a Docker Network](./days/42.md) | ✅ |
 | 43 | Docker Ports Mapping | ☐ |
 | 44 | Write a Docker Compose File | ☐ |
 | 45 | Resolve Dockerfile Issues | ☐ |
