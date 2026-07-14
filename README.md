@@ -46,7 +46,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 40 | [Docker EXEC Operations](./days/40.md) | ✅ |
 | 41 | [Write a Docker File](./days/41.md) | ✅ |
 | 42 | [Create a Docker Network](./days/42.md) | ✅ |
-| 43 | Docker Ports Mapping | ☐ |
+| 43 | [Docker Ports Mapping](./days/43.md) | ✅ |
 | 44 | Write a Docker Compose File | ☐ |
 | 45 | Resolve Dockerfile Issues | ☐ |
 | 46 | Deploy an App on Docker Containers | ☐ |
