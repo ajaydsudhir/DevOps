@@ -49,7 +49,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 43 | [Docker Ports Mapping](./days/43.md) | ✅ |
 | 44 | [Write a Docker Compose File](./days/44.md) | ✅ |
 | 45 | [Resolve Dockerfile Issues](./days/45.md) | ✅ |
-| 46 | Deploy an App on Docker Containers | ☐ |
+| 46 | [Deploy an App on Docker Containers](./days/46.md) | ✅ |
 | 47 | Docker Python App | ☐ |
 | 48 | Deploy Pods in Kubernetes Cluster | ☐ |
 | 49 | Deploy Applications with Kubernetes Deployments | ☐ |
