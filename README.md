@@ -50,7 +50,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 44 | [Write a Docker Compose File](./days/44.md) | ✅ |
 | 45 | [Resolve Dockerfile Issues](./days/45.md) | ✅ |
 | 46 | [Deploy an App on Docker Containers](./days/46.md) | ✅ |
-| 47 | Docker Python App | ☐ |
+| 47 | [Docker Python App](./days/47.md) | ✅ |
 | 48 | Deploy Pods in Kubernetes Cluster | ☐ |
 | 49 | Deploy Applications with Kubernetes Deployments | ☐ |
 | 50 | Set Resource Limits in Kubernetes Pods | ☐ |
