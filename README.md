@@ -53,7 +53,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 47 | [Docker Python App](./days/47.md) | ✅ |
 | 48 | [Deploy Pods in Kubernetes Cluster](./days/48.md) | ✅ |
 | 49 | [Deploy Applications with Kubernetes Deployments](./days/49.md) | ✅ |
-| 50 | Set Resource Limits in Kubernetes Pods | ☐ |
+| 50 | [Set Resource Limits in Kubernetes Pods](./days/50.md) | ✅ |
 | 51 | Execute Rolling Updates in Kubernetes | ☐ |
 | 52 | Revert Deployment to Previous Version in Kubernetes | ☐ |
 | 53 | Resolve VolumeMounts Issue in Kubernetes | ☐ |
