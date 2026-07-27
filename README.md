@@ -58,7 +58,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 52 | [Revert Deployment to Previous Version in Kubernetes](./days/52.md) | ✅ |
 | 53 | [Resolve VolumeMounts Issue in Kubernetes](./days/53.md) | ✅ |
 | 54 | [Kubernetes Shared Volumes](./days/54.md) | ✅ |
-| 55 | Kubernetes Sidecar Containers | ☐ |
+| 55 | [Kubernetes Sidecar Containers](./days/55.md) | ✅ |
 | 56 | Deploy Nginx Web Server on Kubernetes Cluster | ☐ |
 | 57 | Print Environment Variables | ☐ |
 | 58 | Deploy Grafana on Kubernetes Cluster | ☐ |
