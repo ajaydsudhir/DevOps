@@ -61,7 +61,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 55 | [Kubernetes Sidecar Containers](./days/55.md) | ✅ |
 | 56 | [Deploy Nginx Web Server on Kubernetes Cluster](./days/56.md) | ✅ |
 | 57 | [Print Environment Variables](./days/57.md) | ✅ |
-| 58 | Deploy Grafana on Kubernetes Cluster | ☐ |
+| 58 | [Deploy Grafana on Kubernetes Cluster](./days/58.md) | ✅ |
 | 59 | Troubleshoot Deployment issues in Kubernetes | ☐ |
 | 60 | Persistent Volumes in Kubernetes | ☐ |
 | 61 | Init Containers in Kubernetes | ☐ |
