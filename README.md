@@ -63,7 +63,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 57 | [Print Environment Variables](./days/57.md) | ✅ |
 | 58 | [Deploy Grafana on Kubernetes Cluster](./days/58.md) | ✅ |
 | 59 | [Troubleshoot Deployment issues in Kubernetes](./days/59.md) | ✅ |
-| 60 | Persistent Volumes in Kubernetes | ☐ |
+| 60 | [Persistent Volumes in Kubernetes](./days/60.md) | ✅ |
 | 61 | Init Containers in Kubernetes | ☐ |
 | 62 | Manage Secrets in Kubernetes | ☐ |
 | 63 | Deploy Iron Gallery App on Kubernetes | ☐ |
