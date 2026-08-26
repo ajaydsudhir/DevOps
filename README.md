@@ -67,7 +67,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 61 | [Init Containers in Kubernetes](./days/61.md) | ✅ |
 | 62 | [Manage Secrets in Kubernetes](./days/62.md) | ✅ |
 | 63 | [Deploy Iron Gallery App on Kubernetes](./days/63.md) | ✅ |
-| 64 | Fix Python App Deployed on Kubernetes Cluster | ☐ |
+| 64 | [Fix Python App Deployed on Kubernetes Cluster](./days/64.md) | ✅ |
 | 65 | Deploy Redis Deployment on Kubernetes | ☐ |
 | 66 | Deploy MySQL on Kubernetes | ☐ |
 | 67 | Deploy Guest Book App on Kubernetes | ☐ |
