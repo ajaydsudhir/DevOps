@@ -70,7 +70,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 64 | [Fix Python App Deployed on Kubernetes Cluster](./days/64.md) | ✅ |
 | 65 | [Deploy Redis Deployment on Kubernetes](./days/65.md) | ✅ |
 | 66 | [Deploy MySQL on Kubernetes](./days/66.md) | ✅ |
-| 67 | Deploy Guest Book App on Kubernetes | ☐ |
+| 67 | [Deploy Guest Book App on Kubernetes](./days/67.md) | ✅ |
 | 68 | Set Up Jenkins Server | ☐ |
 | 69 | Install Jenkins Plugins | ☐ |
 | 70 | Configure Jenkins User Access | ☐ |
