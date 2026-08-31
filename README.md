@@ -72,7 +72,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 66 | [Deploy MySQL on Kubernetes](./days/66.md) | ✅ |
 | 67 | [Deploy Guest Book App on Kubernetes](./days/67.md) | ✅ |
 | 68 | [Set Up Jenkins Server](./days/68.md) | ✅ |
-| 69 | Install Jenkins Plugins | ☐ |
+| 69 | [Install Jenkins Plugins](./days/69.md) | ✅ |
 | 70 | Configure Jenkins User Access | ☐ |
 | 71 | Configure Jenkins Job for Package Installation | ☐ |
 | 72 | Jenkins Parameterized Builds | ☐ |
