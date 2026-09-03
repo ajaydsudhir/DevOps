@@ -75,7 +75,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 69 | [Install Jenkins Plugins](./days/69.md) | ✅ |
 | 70 | [Configure Jenkins User Access](./days/70.md) | ✅ |
 | 71 | [Configure Jenkins Job for Package Installation](./days/71.md) | ✅ |
-| 72 | Jenkins Parameterized Builds | ☐ |
+| 72 | [Jenkins Parameterized Builds](./days/72.md) | ✅ |
 | 73 | Jenkins Scheduled Jobs | ☐ |
 | 74 | Jenkins Database Backup Job | ☐ |
 | 75 | Jenkins Slave Nodes | ☐ |
