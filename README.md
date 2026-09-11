@@ -79,7 +79,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 73 | [Jenkins Scheduled Jobs](./days/73.md) | ✅ |
 | 74 | [Jenkins Database Backup Job](./days/74.md) | ✅ |
 | 75 | [Jenkins Slave Nodes](./days/75.md) | ✅ |
-| 76 | Jenkins Project Security | ☐ |
+| 76 | [Jenkins Project Security](./days/76.md) | ✅ |
 | 77 | Jenkins Deploy Pipeline | ☐ |
 | 78 | Jenkins Conditional Pipeline | ☐ |
 | 79 | Jenkins Deployment Job | ☐ |
