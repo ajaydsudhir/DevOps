@@ -82,7 +82,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 76 | [Jenkins Project Security](./days/76.md) | ✅ |
 | 77 | [Jenkins Deploy Pipeline](./days/77.md) | ✅ |
 | 78 | [Jenkins Conditional Pipeline](./days/78.md) | ✅ |
-| 79 | Jenkins Deployment Job | ☐ |
+| 79 | [Jenkins Deployment Job](./days/79.md) | ✅ |
 | 80 | Jenkins Chained Builds | ☐ |
 | 81 | Jenkins Multistage Pipeline | ☐ |
 | 82 | Create Ansible Inventory for App Server Testing | ☐ |
