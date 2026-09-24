@@ -85,7 +85,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 79 | [Jenkins Deployment Job](./days/79.md) | ✅ |
 | 80 | [Jenkins Chained Builds](./days/80.md) | ✅ |
 | 81 | [Jenkins Multistage Pipeline](./days/81.md) | ✅ |
-| 82 | Create Ansible Inventory for App Server Testing | ☐ |
+| 82 | [Create Ansible Inventory for App Server Testing](./days/82.md) | ✅ |
 | 83 | Troubleshoot and Create Ansible Playbook | ☐ |
 | 84 | Copy Data to App Servers using Ansible | ☐ |
 | 85 | Create Files on App Servers using Ansible | ☐ |
