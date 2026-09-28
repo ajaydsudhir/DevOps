@@ -88,7 +88,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 82 | [Create Ansible Inventory for App Server Testing](./days/82.md) | ✅ |
 | 83 | [Troubleshoot and Create Ansible Playbook](./days/83.md) | ✅ |
 | 84 | [Copy Data to App Servers using Ansible](./days/84.md) | ✅ |
-| 85 | Create Files on App Servers using Ansible | ☐ |
+| 85 | [Create Files on App Servers using Ansible](./days/85.md) | ✅ |
 | 86 | Ansible Ping Module Usage | ☐ |
 | 87 | Ansible Install Package | ☐ |
 | 88 | Ansible Blockinfile Module | ☐ |
