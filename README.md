@@ -90,7 +90,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 84 | [Copy Data to App Servers using Ansible](./days/84.md) | ✅ |
 | 85 | [Create Files on App Servers using Ansible](./days/85.md) | ✅ |
 | 86 | [Ansible Ping Module Usage](./days/86.md) | ✅ |
-| 87 | Ansible Install Package | ☐ |
+| 87 | [Ansible Install Package](./days/87.md) | ✅ |
 | 88 | Ansible Blockinfile Module | ☐ |
 | 89 | Ansible Manage Services | ☐ |
 | 90 | Managing ACLs Using Ansible | ☐ |
