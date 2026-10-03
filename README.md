@@ -92,7 +92,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 86 | [Ansible Ping Module Usage](./days/86.md) | ✅ |
 | 87 | [Ansible Install Package](./days/87.md) | ✅ |
 | 88 | [Ansible Blockinfile Module](./days/88.md) | ✅ |
-| 89 | Ansible Manage Services | ☐ |
+| 89 | [Ansible Manage Services](./days/89.md) | ✅ |
 | 90 | Managing ACLs Using Ansible | ☐ |
 | 91 | Ansible Lineinfile Module | ☐ |
 | 92 | Managing Jinja2 Templates Using Ansible | ☐ |
