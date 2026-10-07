@@ -93,7 +93,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 87 | [Ansible Install Package](./days/87.md) | ✅ |
 | 88 | [Ansible Blockinfile Module](./days/88.md) | ✅ |
 | 89 | [Ansible Manage Services](./days/89.md) | ✅ |
-| 90 | Managing ACLs Using Ansible | ☐ |
+| 90 | [Managing ACLs Using Ansible](./days/90.md) | ✅ |
 | 91 | Ansible Lineinfile Module | ☐ |
 | 92 | Managing Jinja2 Templates Using Ansible | ☐ |
 | 93 | Using Ansible Conditionals | ☐ |
