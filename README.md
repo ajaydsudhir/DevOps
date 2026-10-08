@@ -94,7 +94,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 88 | [Ansible Blockinfile Module](./days/88.md) | ✅ |
 | 89 | [Ansible Manage Services](./days/89.md) | ✅ |
 | 90 | [Managing ACLs Using Ansible](./days/90.md) | ✅ |
-| 91 | Ansible Lineinfile Module | ☐ |
+| 91 | [Ansible Lineinfile Module](./days/91.md) | ✅ |
 | 92 | Managing Jinja2 Templates Using Ansible | ☐ |
 | 93 | Using Ansible Conditionals | ☐ |
 | 94 | Create VPC Using Terraform | ☐ |
