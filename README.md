@@ -97,7 +97,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 91 | [Ansible Lineinfile Module](./days/91.md) | ✅ |
 | 92 | [Managing Jinja2 Templates Using Ansible](./days/92.md) | ✅ |
 | 93 | [Using Ansible Conditionals](./days/93.md) | ✅ |
-| 94 | Create VPC Using Terraform | ☐ |
+| 94 | [Create VPC Using Terraform](./days/94.md) | ✅ |
 | 95 | Create Security Group Using Terraform | ☐ |
 | 96 | Create EC2 Instance Using Terraform | ☐ |
 | 97 | Create IAM Policy Using Terraform | ☐ |
