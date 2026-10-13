@@ -99,7 +99,7 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 93 | [Using Ansible Conditionals](./days/93.md) | ✅ |
 | 94 | [Create VPC Using Terraform](./days/94.md) | ✅ |
 | 95 | [Create Security Group Using Terraform](./days/95.md) | ✅ |
-| 96 | Create EC2 Instance Using Terraform | ☐ |
+| 96 | [Create EC2 Instance Using Terraform](./days/96.md) | ✅ |
 | 97 | Create IAM Policy Using Terraform | ☐ |
 | 98 | Launch EC2 in Private VPC Subnet Using Terraform | ☐ |
 | 99 | Attach IAM Policy for DynamoDB Access Using Terraform | ☐ |
