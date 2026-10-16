@@ -102,5 +102,5 @@ My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodeklou
 | 96 | [Create EC2 Instance Using Terraform](./days/96.md) | ✅ |
 | 97 | [Create IAM Policy Using Terraform](./days/97.md) | ✅ |
 | 98 | [Launch EC2 in Private VPC Subnet Using Terraform](./days/98.md) | ✅ |
-| 99 | Attach IAM Policy for DynamoDB Access Using Terraform | ☐ |
+| 99 | [Attach IAM Policy for DynamoDB Access Using Terraform](./days/99.md) | ✅ |
 | 100 | Create and Configure Alarm Using CloudWatch Using Terraform | ☐ |
