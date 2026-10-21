@@ -2,7 +2,9 @@
 
 My journey through the [KodeKloud 100 Days of DevOps Challenge](https://kodekloud.com/100-days-of-devops) with 100 hands-on tasks covering the full DevOps lifecycle.
 
-| DAY | TASK | STATUS |
+![AJAY D SUDHIR - 100 Days of DevOps](AJAY_D_SUDHIR_100_Days_of_DevOps.jpg)
+
+| **DAY** | **TASK** | **STATUS** |
 | :-: | :-: | :-: |
 | 1 | [Linux User Setup with Non-Interactive Shell](./days/1.md) | ✅ |
 | 2 | [Temporary User Setup with Expiry](./days/2.md) | ✅ |
